@@ -1,0 +1,25 @@
+[
+	{
+		"label":"Nombre del usuario",
+		"type":"text",
+		"uid":"jhv643jv6346v54bk"
+	},
+	{
+		"label":"Apellidos del usuario",
+		"type":"text",
+		"uid":"e65b75fj-c23d-42c0-90f3-4560eacc3c13"
+	},
+	{
+		"label":"Edad",
+		"type":"select",
+		"uid":"e78b70fe-c23d-42c0-90f3-5640eakp3c12",
+		"opc1":"menor de 18",
+		"opc2":"mayor de 18",
+		"opc3":"mayor de 60"
+	},
+	{
+		"label":"Acepto términos",
+		"type":"radio",
+		"uid":"e65b75fe-c00d-42c0-90f3-5000eacc0c00"
+	}
+]

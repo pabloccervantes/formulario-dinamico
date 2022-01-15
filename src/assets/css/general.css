@@ -1,0 +1,31 @@
+html,body {
+  background-color: #f7f7f7;
+  color: #575757;
+  font-family: "Segoe UI";
+}
+
+.opcInput {
+	width: 100%;
+	margin: 10px 0px;
+	font-family: "Segoe UI Semibold";
+}
+
+.prefInput {
+  clear: both;
+  overflow: hidden;
+	margin: 12px 0px;
+}
+
+.cancelButton {
+  background-color: transparent !important;
+  color: #5c5c5c !important;
+  height: 35px !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.confirmButton {
+  height: 35px !important;
+  display: flex !important;
+  align-items: center !important;
+}
