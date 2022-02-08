@@ -88,7 +88,7 @@ Se deben incluir, por lo menos, campos de tipo:
 
 <h3>Resultado</h3>
 :white_check_mark: La prueba, para su muestra, se alojó en GitHub Pages:
-<a href="https://pablocerv.github.io/formulario-dinamico/" target="_blank">formulario-dinamico</a>
+<a href="https://pabloccervantes.github.io/formulario-dinamico/" target="_blank">formulario-dinamico</a>
 
 <br><br><br>
 <p align="center"> :email: <i>pabloccervantes@gmail.com</i></p>
